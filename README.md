@@ -42,4 +42,6 @@ The vision for the Decentralized Gig Economy Platform is to build a fully decent
 ## Contract Details
 - Contract Address: 0xcA11D0f12a7f1865cf52E3800B196b8348A2e3C3
 
+![image](https://github.com/user-attachments/assets/fdea956d-4219-4121-af6e-511afd6ced3f)
+
 For more information on how to use the platform or deploy it on your own, refer to the contract’s methods and documentation.
